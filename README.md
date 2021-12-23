@@ -43,6 +43,7 @@
 
  <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>
  <img src="https://img.icons8.com/windows/128/000000/ruby-on-rails.png"/>
+  <a href="https://icons8.com/icon/ZMFmFsekpKfY/ruby-on-rails">Ruby On Rails icon by Icons8</a>
 
 </p>
 
