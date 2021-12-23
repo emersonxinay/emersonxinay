@@ -2,25 +2,25 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/emerson-espinoza-b06131189/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/facebook.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/emersonxinay/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Espinoza, Sistem Engineer & Software Developer 
   <br>
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I graduated from Sistems Engineer in University Hermilio Valdizan
+  <br>
+   <br>
+  🎓 I graduated from Full Stack with Ruby On Rails in Desafio Latam
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently working on Django
+  🔬 I’m currently working on Ruby On Rails
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build E-Commerce Website with Flutter
   <br>
-  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: xinayespinoza@gamail.com">xinayespinoza@gamail.com</a>
 </p>
 
 <hr>
