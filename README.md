@@ -42,6 +42,7 @@
  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
 
  <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>
+ <img src="https://img.icons8.com/windows/128/000000/ruby-on-rails.png"/>
 
 </p>
 
