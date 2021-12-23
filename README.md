@@ -28,22 +28,14 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="left">
-
- <img src="https://github.com/konpa/devicon/blob/master/icons/php/php-original.svg" alt="php" width="24px" height="24px"/>
-
- <img src="https://github.com/konpa/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="24px" height="24px"/>
-
- <img src="https://github.com/konpa/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="24px" height="24px"/>
-
- <img src="https://github.com/konpa/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java spring boot" width="24px" height="24px"/>
-
- <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
-
- <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
-
- <img src="https://github.com/konpa/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="24px" height="24px"/>
- <img src="https://img.icons8.com/windows/128/000000/ruby-on-rails.png"/>
 <img src="https://img.icons8.com/windows/128/fa314a/ruby-on-rails.png"/>
+<img src="https://img.icons8.com/ios-filled/100/fa314a/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/fa314a/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/144/fa314a/css3.png"/>
+<img src="https://img.icons8.com/color/144/fa314a/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/144/fa314a/postgreesql.png"/>
+
+  
 
 </p>
 
