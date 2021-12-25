@@ -29,20 +29,20 @@
 
 <p align="left">
 <img src="https://img.icons8.com/windows/32/fa314a/ruby-on-rails.png"/>
-<img src="https://img.icons8.com/ios-filled/100/fa314a/laravel.png"/>
-<img src="https://img.icons8.com/officel/80/fa314a/php-logo.png"/>
-<img src="https://img.icons8.com/ios-filled/100/fa314a/ruby-programming-language.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/fa314a/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/144/fa314a/css3.png"/>
-<img src="https://img.icons8.com/color/144/fa314a/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/144/fa314a/postgreesql.png"/>
-<img src="https://img.icons8.com/color/144/fa314a/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/240/fa314a/git.png"/>
-<img src="https://img.icons8.com/windows/128/000000/github.png"/>
-<img src="https://img.icons8.com/color/240/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/144/000000/dart.png"/>
-<img src="https://img.icons8.com/color/144/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/144/000000/heroku.png"/>
+<img src="https://img.icons8.com/ios-filled/32/fa314a/laravel.png"/>
+<img src="https://img.icons8.com/officel/32/fa314a/php-logo.png"/>
+<img src="https://img.icons8.com/ios-filled/32/fa314a/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/fa314a/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/32/fa314a/css3.png"/>
+<img src="https://img.icons8.com/color/32/fa314a/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/32/fa314a/postgreesql.png"/>
+<img src="https://img.icons8.com/color/32/fa314a/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/32/fa314a/git.png"/>
+<img src="https://img.icons8.com/windows/32/000000/github.png"/>
+<img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/32/000000/dart.png"/>
+<img src="https://img.icons8.com/color/32/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/32/000000/heroku.png"/>
 
 
   
