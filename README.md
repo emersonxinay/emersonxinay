@@ -27,7 +27,7 @@
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
-<p align="left">
+<p align="center">
 <img src="https://img.icons8.com/windows/32/fa314a/ruby-on-rails.png"/>
 <img src="https://img.icons8.com/ios-filled/32/fa314a/laravel.png"/>
 <img src="https://img.icons8.com/officel/32/fa314a/php-logo.png"/>
