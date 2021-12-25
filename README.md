@@ -28,7 +28,7 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="left">
-<img src="https://img.icons8.com/windows/128/fa314a/ruby-on-rails.png"/>
+<img src="https://img.icons8.com/windows/32/fa314a/ruby-on-rails.png"/>
 <img src="https://img.icons8.com/ios-filled/100/fa314a/laravel.png"/>
 <img src="https://img.icons8.com/officel/80/fa314a/php-logo.png"/>
 <img src="https://img.icons8.com/ios-filled/100/fa314a/ruby-programming-language.png"/>
