@@ -20,7 +20,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Flutter
   <br>
-  📫 How to reach me: <a href="mailto: xinayespinoza@gamail.com">xinayespinoza@gamail.com</a>
+  📫 How to reach me: <a href="mailto: xinayespinoza@gmail.com">xinayespinoza@gmail.com</a>
 </p>
 
 <hr>
