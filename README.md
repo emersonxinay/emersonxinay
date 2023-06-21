@@ -64,9 +64,10 @@
   
 </p>
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonxinay&langs_count=8&theme=radical)](https://github.com/emersonxninay/github-readme-stats)
 
-<hr>
+
+
+
 <h2 align="center">Tools & Abilities</h2>
 
 <p align="center">
@@ -93,4 +94,47 @@
   <img src="https://img.icons8.com/ios-glyphs/32/mac-client.png"/>
   MAC OS
 </p>
+
+![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
+![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
+![](https://img.shields.io/badge/RoR-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=CC342D)
+![](https://img.shields.io/badge/Php-informational?style=flat&logo=php&logoColor=white&color=8892BF)
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=8892BF)
+![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=51D04D)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=51D04D)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=node.js&logoColor=white&color=51D04D)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=node.js&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=node.js&logoColor=white&color=5DADE2)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1158c7)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=1158c7)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=8E24AA)
+
+<hr>
+
+# 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonxinay&langs_count=8&theme=algolia)](https://github.com/emersonxninay/github-readme-stats)<br>
+![emersonxinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonxinay&show_icons=true&theme=algolia&count_private=true&show_icons=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=emersonxinay&theme=algolia&hide_border=false)
+<hr>
+
+
+
+### ✍️ Cita aleatoria de desarrollador
+
+> "El código es poesía en movimiento." - Emerson Xinay
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
+<hr>
+
+[![](https://komarev.com/ghpvc/?username=emersonxinay&&icon=8&color=blue)](https://visitcount.itsvg.in)
+
+
+
+
 
