@@ -64,6 +64,9 @@
   
 </p>
 <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonxinay&langs_count=8&theme=radical)](https://github.com/emersonxninay/github-readme-stats)
+
+<hr>
 <h2 align="center">Tools & Abilities</h2>
 
 <p align="center">
