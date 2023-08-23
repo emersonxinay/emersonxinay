@@ -1,7 +1,7 @@
 <h3 align="center">Hello there, I'm Emerson Espinoza 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/emerson-espinoza-b06131189/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/emerson-espinoza-aguirre/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/emersonxinay/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
