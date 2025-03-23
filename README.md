@@ -105,6 +105,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emersonxinay&theme=algolia&hide_border=false)
 <hr>
 
+# Logros Github
+![](https://github-profile-trophy.vercel.app/?username=emersonxinay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### ✍️ Cita aleatoria de desarrollador
