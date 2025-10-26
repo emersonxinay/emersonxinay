@@ -1,150 +1,154 @@
-# 👋 ¡Hola! Soy Emerson Espinoza / Hello there, I'm Emerson Espinoza
+# Hola, Soy Emerson Espinoza / Hello there, I'm Emerson Espinoza
 
 <p align="center">
   <a href="#espanol">Español</a> •
   <a href="#english">English</a>
 </p>
 
-## Porfolio
+## Portafolio
 
 <a href="https://www.emersonespinoza.com" target="_blank" rel="noopener noreferrer">Link Portafolio</a>
 <br>
 
-## 📌 Español
+## Español
 
-### 🎓 **Ingeniero de Sistemas & Desarrollador de Software**
+### Ingeniero de Sistemas & Desarrollador de Software
 
-💻 Apasionado por el **Desarrollo Full Stack**, con una sólida experiencia en **Python, Ruby on Rails, Flask y JavaScript**, creando soluciones escalables y eficientes para entornos de alto rendimiento.
+Apasionado por el Desarrollo Full Stack, con una sólida experiencia en Python, Ruby on Rails, C#, .NET, Flask y JavaScript, creando soluciones escalables y eficientes para entornos de alto rendimiento.
 
-🔧 Especializado en el diseño y desarrollo de **APIs REST** y arquitecturas backend optimizadas para grandes volúmenes de datos y alta concurrencia.
+Especializado en el diseño y desarrollo de APIs REST y arquitecturas backend optimizadas para grandes volúmenes de datos y alta concurrencia, utilizando tecnologías como .NET Core, ASP.NET y Entity Framework.
 
-🤖 **Inteligencia Artificial & Robótica** – Experiencia en **Machine Learning**, **Visión por Computador** y **Automatización con Raspberry Pi**.
+Inteligencia Artificial & Robótica – Experiencia en Machine Learning, Visión por Computador y Automatización con Raspberry Pi.
 
-👨‍🏫 **Instructor de Programación** – Formador de talento en tecnología, guiando a desarrolladores en su camino hacia la excelencia.
+Instructor de Programación – Formador de talento en tecnología, guiando a desarrolladores en su camino hacia la excelencia.
 
-🎨 **Desarrollador Frontend** – Creando experiencias de usuario fluidas y atractivas con **React, HTML, CSS y JavaScript**, priorizando la usabilidad y el rendimiento.
+Desarrollador Frontend – Creando experiencias de usuario fluidas y atractivas con React, HTML, CSS y JavaScript, priorizando la usabilidad y el rendimiento.
 
-🛠 **Especialista en Bases de Datos** – Experto en el modelado, optimización y escalabilidad de bases de datos relacionales como **PostgreSQL y MySQL**.
+Especialista en Bases de Datos – Experto en el modelado, optimización y escalabilidad de bases de datos relacionales como PostgreSQL, MySQL y SQL Server.
 
-🌱 Actualmente explorando **Desarrollo de E-Commerce con Flutter**, con un enfoque en optimización de rendimiento y arquitectura modular.
+Actualmente explorando Desarrollo de E-Commerce con Flutter y arquitecturas basadas en microservicios con .NET, con un enfoque en optimización de rendimiento y arquitectura modular.
 
-📫 Contáctame: [xinayespinoza@gmail.com](mailto:xinayespinoza@gmail.com) <a href="mailto:xinayespinoza@gmail.com"><img src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail"/></a>
+Contacto: [xinayespinoza@gmail.com](mailto:xinayespinoza@gmail.com) <a href="mailto:xinayespinoza@gmail.com"><img src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail"/></a>
 
-
-🌎 **Redes Sociales:**  
+Redes Sociales:  
 <p align="center">
 <a href="https://www.linkedin.com/in/emersonxinay"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn"/></a>  
 <a href="https://www.instagram.com/emersonxinay"><img src="https://img.icons8.com/color/32/instagram-new.png" alt="Instagram"/></a>  
 <a href="https://www.youtube.com/@CompilandoCode"><img src="https://img.icons8.com/color/32/youtube-play.png" alt="YouTube - CompilandoCode"/></a>  
 <a href="https://www.tiktok.com/@CompilandoCode"><img src="https://img.icons8.com/color/32/tiktok.png" alt="TikTok - CompilandoCode"/></a>
 </p>  
+
 ---
 
-## 📌 English
+## English
 
-### 🎓 **System Engineer & Software Developer**
+### System Engineer & Software Developer
 
-💻 Passionate about **Full Stack Development**, with strong expertise in **Python, Ruby on Rails, Flask, and JavaScript**, building scalable and high-performance solutions.
+Passionate about Full Stack Development, with strong expertise in Python, Ruby on Rails, C#, .NET, Flask, and JavaScript, building scalable and high-performance solutions.
 
-🔧 Specialized in designing and developing **REST APIs** and backend architectures optimized for high data volume and concurrency.
+Specialized in designing and developing REST APIs and backend architectures optimized for high data volume and concurrency, leveraging technologies such as .NET Core, ASP.NET, and Entity Framework.
 
-🤖 **Artificial Intelligence & Robotics** – Experience in **Machine Learning**, **Computer Vision**, and **Automation with Raspberry Pi**.
+Artificial Intelligence & Robotics – Experience in Machine Learning, Computer Vision, and Automation with Raspberry Pi.
 
-👨‍🏫 **Programming Instructor** – Mentoring and empowering developers to achieve technical excellence.
+Programming Instructor – Mentoring and empowering developers to achieve technical excellence.
 
-🎨 **Frontend Developer** – Crafting seamless and engaging user experiences with **React, HTML, CSS, and JavaScript**, focusing on usability and performance.
+Frontend Developer – Crafting seamless and engaging user experiences with React, HTML, CSS, and JavaScript, focusing on usability and performance.
 
-🛠 **Database Specialist** – Expert in database modeling, optimization, and scalability for relational databases such as **PostgreSQL and MySQL**.
+Database Specialist – Expert in database modeling, optimization, and scalability for relational databases such as PostgreSQL, MySQL, and SQL Server.
 
-🌱 Currently exploring **E-Commerce Development with Flutter**, focusing on performance optimization and modular architecture.
+Currently exploring E-Commerce Development with Flutter and microservices architectures with .NET, focusing on performance optimization and modular architecture.
 
-📫 Contact me: [xinayespinoza@gmail.com](mailto:xinayespinoza@gmail.com) <a href="mailto:xinayespinoza@gmail.com"><img src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail"/></a>
+Contact: [xinayespinoza@gmail.com](mailto:xinayespinoza@gmail.com) <a href="mailto:xinayespinoza@gmail.com"><img src="https://img.icons8.com/color/32/gmail-new.png" alt="Gmail"/></a>
 
-🌎 **Social Media:**  
+Social Media:  
 <p align="center">
 <a href="https://www.linkedin.com/in/emersonxinay"><img src="https://img.icons8.com/color/32/linkedin.png" alt="LinkedIn"/></a>  
 <a href="https://www.instagram.com/emersonxinay"><img src="https://img.icons8.com/color/32/instagram-new.png" alt="Instagram"/></a>  
 <a href="https://www.youtube.com/@CompilandoCode"><img src="https://img.icons8.com/color/32/youtube-play.png" alt="YouTube - CompilandoCode"/></a>  
 <a href="https://www.tiktok.com/@CompilandoCode"><img src="https://img.icons8.com/color/32/tiktok.png" alt="TikTok - CompilandoCode"/></a>
 </p>
+
 ---
 
-## 🛠️ Tecnologías / Technologies
+## Tecnologías / Technologies
 
-### **Lenguajes / Languages**
+### Lenguajes / Languages
 
+<hr>
+<h2 align="center"> Languages </h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/32/c-sharp-logo.png"/>
+  C#
+  <img src="https://img.icons8.com/ios-filled/32/fa314a/ruby-programming-language.png"/>
+  Ruby
+  <img src="https://img.icons8.com/color/32/python.png"/>
+  Python
+  <img src="https://img.icons8.com/fluency/32/node-js.png"/>
+  Node Js
+  <img src="https://img.icons8.com/color/32/javascript.png"/>
+  JavaScript
+  <img src="https://img.icons8.com/officel/32/fa314a/php-logo.png"/>
+  Php
+  <img src="https://img.icons8.com/color/32/000000/dart.png"/>
+  Dart
+  <img src="https://img.icons8.com/color/32/fa314a/postgreesql.png"/>
+  Postgresql
+  <img src="https://img.icons8.com/color/32/fa314a/mysql-logo.png"/>
+  Mysql
+  <img src="https://img.icons8.com/color/32/microsoft-sql-server.png"/>
+  SQL Server
+</p>
+<hr>
 
- <hr>
- <h2 align="center"> Languages </h2>
- <p align="center">
-   <img src="https://img.icons8.com/ios-filled/32/fa314a/ruby-programming-language.png"/>
-   Ruby
-   <img src="https://img.icons8.com/color/32/python.png"/>
-   Python
-   <img src="https://img.icons8.com/fluency/32/node-js.png"/>
-   Node Js
-   <img src="https://img.icons8.com/color/32/javascript.png"/>
-   JavaScript
-   <img src="https://img.icons8.com/officel/32/fa314a/php-logo.png"/>
-   Php
- 
-   <img src="https://img.icons8.com/color/32/000000/dart.png"/>
-   Dart
-   <img src="https://img.icons8.com/color/32/fa314a/postgreesql.png"/>
-   Postgresql
-   <img src="https://img.icons8.com/color/32/fa314a/mysql-logo.png"/>
-   Mysql
- </p>
- <hr>
- <h2 align="center"> Frameworks </h2>
- <p align="center">
-   <img src="https://img.icons8.com/windows/32/fa314a/ruby-on-rails.png"/>
-   Ruby On Rails
-   <img src="https://img.icons8.com/ios-filled/32/fa314a/laravel.png"/>
-   Laravel
-   <img src="https://img.icons8.com/officel/32/react.png"/>
-   React
-   <img src="https://img.icons8.com/color/32/vue-js.png"/>
-   Vue
-   <img src="https://img.icons8.com/color/32/000000/flutter.png"/>
-   Flutter
- 
- </p>
- <hr>
- 
- 
- 
- 
- <h2 align="center">Tools & Abilities</h2>
- 
- <p align="center">
- 
- 
-   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/fa314a/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/>
-   Docker
-   <img src="https://img.icons8.com/color/32/fa314a/css3.png"/>
-   Css
-   <img src="https://img.icons8.com/color/32/fa314a/html-5--v1.png"/>
-   Html5
-   <img src="https://img.icons8.com/color/32/fa314a/git.png"/>
-   Git
-   <img src="https://img.icons8.com/windows/32/000000/github.png"/>
-   Git Hub
-   <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
-   Bootstrap
-   <img src="https://img.icons8.com/color/32/000000/heroku.png"/>
-   Heroku
-   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-   Postman
-   <img src="https://img.icons8.com/color/32/jira.png"/>
-   Jira
-   <img src="https://img.icons8.com/ios-glyphs/32/mac-client.png"/>
-   MAC OS
- </p>
- 
- 
+<h2 align="center"> Frameworks </h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/32/net-framework.png"/>
+  .NET
+  <img src="https://img.icons8.com/color/32/asp.png"/>
+  ASP.NET
+  <img src="https://img.icons8.com/windows/32/fa314a/ruby-on-rails.png"/>
+  Ruby On Rails
+  <img src="https://img.icons8.com/ios-filled/32/fa314a/laravel.png"/>
+  Laravel
+  <img src="https://img.icons8.com/officel/32/react.png"/>
+  React
+  <img src="https://img.icons8.com/color/32/vue-js.png"/>
+  Vue
+  <img src="https://img.icons8.com/color/32/000000/flutter.png"/>
+  Flutter
+</p>
+<hr>
 
-## 📊 Estadísticas de GitHub / GitHub Stats
+<h2 align="center">Tools & Abilities</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/32/visual-studio.png"/>
+  Visual Studio
+  <img src="https://img.icons8.com/color/32/azure-1.png"/>
+  Azure
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/fa314a/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/>
+  Docker
+  <img src="https://img.icons8.com/color/32/fa314a/css3.png"/>
+  Css
+  <img src="https://img.icons8.com/color/32/fa314a/html-5--v1.png"/>
+  Html5
+  <img src="https://img.icons8.com/color/32/fa314a/git.png"/>
+  Git
+  <img src="https://img.icons8.com/windows/32/000000/github.png"/>
+  Git Hub
+  <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
+  Bootstrap
+  <img src="https://img.icons8.com/color/32/000000/heroku.png"/>
+  Heroku
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+  Postman
+  <img src="https://img.icons8.com/color/32/jira.png"/>
+  Jira
+  <img src="https://img.icons8.com/ios-glyphs/32/mac-client.png"/>
+  MAC OS
+</p>
+
+## Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonxinay&langs_count=8&theme=algolia" />
@@ -156,15 +160,26 @@
 
 ---
 
-## 🏆 Logros en GitHub / GitHub Achievements
+## Logros en GitHub / GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emersonxinay&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emersonxinay&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+## Métricas de GitHub / GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emersonxinay&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emersonxinay&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emersonxinay&theme=radical" />
 </p>
 
 ---
 
-## ✍️ Frase del Desarrollador / Developer Quote
+## Frase del Desarrollador / Developer Quote
 
 > "El código es poesía en movimiento." / "Code is poetry in motion." - Emerson Xinay
 
@@ -175,5 +190,3 @@
 ---
 
 ![Visitas al perfil / Profile Views](https://komarev.com/ghpvc/?username=emersonxinay&&icon=8&color=blue)
-
-
